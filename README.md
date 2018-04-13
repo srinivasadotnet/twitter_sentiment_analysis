@@ -1,5 +1,5 @@
 # twitter_sentiment_analysis
-twitter sentiment analysis with python
+Twitter Sentiment Analysis with Python
 
 Ref Links :
 
@@ -8,5 +8,3 @@ Development done with Jupyter notebook : https://jupyter.readthedocs.io/en/lates
 GUI prepared with TKinter : https://docs.python.org/2/library/tkinter.html
 Retrieving Tweets used tweepy : http://docs.tweepy.org/en/v3.5.0/
 NLP analysis used TextBlob : http://textblob.readthedocs.io/en/dev/
-
-
